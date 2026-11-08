@@ -1,0 +1,22 @@
+{
+  "wheel_id": 841,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-115",
+  "project": "concrete-pool-builder-gold-coast-diy-vs-professional-0e6c8403fb",
+  "parent_t1_ref": "poolbuildergoldcoast-157",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast diy vs professional",
+  "intended_url": "https://sitesau.github.io/poolbuildergoldcoast-115/",
+  "tier": "T2",
+  "writeback_nonce": "c31a4e5aac474fa4",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/concrete-pool-builder-gold-coast-maintenance-ea3445052ed32c225d/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
